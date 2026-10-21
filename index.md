@@ -84,3 +84,5 @@ We may update this policy. Changes will be posted on this page with a new effect
 ## 12. Contact
 
 Questions or requests: <https://github.com/Dark-Neuron/dark-neuron-privacy/issues>
+
+Email: <dark.neuron.dn@gmail.com>
