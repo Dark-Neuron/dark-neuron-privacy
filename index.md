@@ -7,6 +7,7 @@ title: Dark Neuron Privacy Policy
 **Effective date:** October 15, 2026
 **Developer:** Dark Neuron
 **App:** Dark Neuron for Android (`com.darkneuron.app`)
+**Contact us:** [Contact page](./contact/) · <dark.neuron.dn@gmail.com>
 
 This policy explains what information the Dark Neuron app ("the app", "we") uses, why, where it goes, and the choices you have. Dark Neuron has **no user accounts, no ads, no analytics or tracking SDKs, and no crash-reporting SDKs**, and we **do not sell or share personal data** for advertising.
 
@@ -83,6 +84,6 @@ We may update this policy. Changes will be posted on this page with a new effect
 
 ## 12. Contact
 
-Questions or requests: <https://github.com/Dark-Neuron/dark-neuron-privacy/issues>
+Questions or requests: see our [Contact us](./contact/) page or <https://github.com/Dark-Neuron/dark-neuron-privacy/issues>
 
 Email: <dark.neuron.dn@gmail.com>
